@@ -805,3 +805,9 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+
+
+/* Last few customizations */
+.larger {
+  font-size: 65px;
+}
